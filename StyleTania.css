@@ -1,0 +1,27 @@
+<style>
+ *{
+    background-color:  #1520a6 ;
+    box-sizing: border-box; 
+  }
+
+h1{
+
+    margin-bottom: 30px;
+    color:white;
+    text-align: center;
+}
+
+h2{
+    margin-bottom: 30px;
+    color: white;
+    padding-top: 20px;
+    text-align: center;
+    background-color:#9c9c9c;
+    margin: 50px;
+
+} 
+
+
+
+
+</style>
